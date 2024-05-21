@@ -95,7 +95,7 @@ For this multi-part challenge question - you have been requested to generate the
 4. Aggregations
 
 ## MEDIUM ARTICLES
-![](https://medium.com/@temperancegodwin/transactional-data-analysis-using-sql-db9be4cb344d)
+[medium](https://medium.com/@temperancegodwin/transactional-data-analysis-using-sql-db9be4cb344d)
 
 
 
