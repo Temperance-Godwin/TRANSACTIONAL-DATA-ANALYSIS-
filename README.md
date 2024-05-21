@@ -1,4 +1,4 @@
-# TRANSACTIONAL-DATA-ANALYSIS-
+# TRANSACTIONAL DATA ANALYSIS USING SQL
 
 **_8-Week SQL Challenge, Case Study #4 by Danny Ma_**
 
@@ -95,7 +95,7 @@ For this multi-part challenge question - you have been requested to generate the
 4. Aggregations
 
 ## MEDIUM ARTICLES
-[medium](https://medium.com/@temperancegodwin/transactional-data-analysis-using-sql-db9be4cb344d)
+[Medium](https://medium.com/@temperancegodwin/transactional-data-analysis-using-sql-db9be4cb344d)
 
 
 
